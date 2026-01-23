@@ -4,11 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="766d3c4b-f32d-46b6-93cd-e30d14a16302" name="Changes" comment="Initial">
-      <change afterPath="$PROJECT_DIR$/Mathematics/Day 4 Normal Distribution 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mathematics/Special Multiple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/HMTL Parser = Part 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/HTML Parser - Part 1.py" afterDir="false" />
+    <list default="true" id="766d3c4b-f32d-46b6-93cd-e30d14a16302" name="Changes" comment="22.01.26 tasks">
+      <change afterPath="$PROJECT_DIR$/Mathematics/Merge List _ HackerRank.mhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mathematics/Merge List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mathematics/Number List _ HackerRank.mhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mathematics/Number List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem-Solving/Sherlock and Anagrams _ HackerRank.mhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem-Solving/Sherlock and Anagrams.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem-Solving/Weighted Uniform Strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/Detect HTML Tags, Attributes and Attribute Values.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/Validating UID.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,6 +31,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;MK-YR&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/MK-YR/HackerRank-Task-Archive.git&quot;,
+    &quot;accountId&quot;: &quot;6d580c85-5cda-43c1-8aee-26c69402a7b9&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -50,9 +67,9 @@
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="I:\Pycharm projects\HackerRank Tasks Archive\Problem-Solving" />
+      <recent name="I:\Pycharm projects\HackerRank Tasks Archive\Mathematics" />
       <recent name="I:\Pycharm projects\HackerRank Tasks Archive\Python" />
       <recent name="I:\Pycharm projects\HackerRank Tasks Archive" />
-      <recent name="I:\Pycharm projects\HackerRank Tasks Archive\Mathematics" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -79,7 +96,15 @@
       <option name="project" value="LOCAL" />
       <updated>1769023867063</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="22.01.26 tasks">
+      <option name="closed" value="true" />
+      <created>1769106448672</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1769106448672</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -95,6 +120,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial" />
+    <MESSAGE value="22.01.26 tasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="22.01.26 tasks" />
   </component>
 </project>
