@@ -4,16 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="766d3c4b-f32d-46b6-93cd-e30d14a16302" name="Changes" comment="22.01.26 tasks">
-      <change afterPath="$PROJECT_DIR$/Mathematics/Merge List _ HackerRank.mhtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mathematics/Merge List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mathematics/Number List _ HackerRank.mhtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mathematics/Number List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem-Solving/Sherlock and Anagrams _ HackerRank.mhtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem-Solving/Sherlock and Anagrams.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem-Solving/Weighted Uniform Strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/Detect HTML Tags, Attributes and Attribute Values.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/Validating UID.py" afterDir="false" />
+    <list default="true" id="766d3c4b-f32d-46b6-93cd-e30d14a16302" name="Changes" comment="23.01.26 tasks">
+      <change afterPath="$PROJECT_DIR$/Mathematics/Breaking Sticks _ HackerRank.mhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mathematics/Breaking Sticks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mathematics/K Candy Store.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/Decorators 2 - Name Directory _ HackerRank.mhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/Decorators 2 - Name Directory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/Shape and Reshape.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,6 +27,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -66,9 +64,9 @@
       <recent name="I:\Pycharm projects\HackerRank Tasks Archive\Mathematics" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="I:\Pycharm projects\HackerRank Tasks Archive\Problem-Solving" />
-      <recent name="I:\Pycharm projects\HackerRank Tasks Archive\Mathematics" />
       <recent name="I:\Pycharm projects\HackerRank Tasks Archive\Python" />
+      <recent name="I:\Pycharm projects\HackerRank Tasks Archive\Mathematics" />
+      <recent name="I:\Pycharm projects\HackerRank Tasks Archive\Problem-Solving" />
       <recent name="I:\Pycharm projects\HackerRank Tasks Archive" />
     </key>
   </component>
@@ -120,7 +118,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial" />
-    <MESSAGE value="22.01.26 tasks" />
-    <option name="LAST_COMMIT_MESSAGE" value="22.01.26 tasks" />
+    <MESSAGE value="23.01.26 tasks" />
+    <MESSAGE value="23.01.26 tasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="23.01.26 tasks" />
   </component>
 </project>
