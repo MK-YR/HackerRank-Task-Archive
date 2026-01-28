@@ -4,18 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="766d3c4b-f32d-46b6-93cd-e30d14a16302" name="Changes" comment="26.01.26 tasks">
-      <change afterPath="$PROJECT_DIR$/Mathematics/Coinage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mathematics/Twins _ HackerRank.mhtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mathematics/Twins.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem-Solving/Intro to Tutorial Challenges _ HackerRank.mhtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem-Solving/Intro to Tutorial Challenges.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem-Solving/The Full Counting Sort _ HackerRank.mhtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem-Solving/The Full Counting Sort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/Standardize Mobile Number Using Decorators _ HackerRank.mhtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/Standardize Mobile Number Using Decorators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/Validating Email Addresses With a Filter _ HackerRank.mhtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/Validating Email Addresses With a Filter.py" afterDir="false" />
+    <list default="true" id="766d3c4b-f32d-46b6-93cd-e30d14a16302" name="Changes" comment="27.01.26 tasks">
+      <change afterPath="$PROJECT_DIR$/Mathematics/Difference and Product _ HackerRank.mhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mathematics/Difference and Product.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mathematics/Shashank and List _ HackerRank.mhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mathematics/Shashank and List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/Hex Color Code _ HackerRank.mhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/Hex Color Code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/Validating Credit Card Numbers _ HackerRank.mhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/Validating Credit Card Numbers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,6 +28,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="HARD" />
   </component>
@@ -69,9 +71,9 @@
       <recent name="I:\Pycharm projects\HackerRank Tasks Archive\Mathematics" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="I:\Pycharm projects\HackerRank Tasks Archive\Problem-Solving" />
       <recent name="I:\Pycharm projects\HackerRank Tasks Archive\Python" />
       <recent name="I:\Pycharm projects\HackerRank Tasks Archive\Mathematics" />
+      <recent name="I:\Pycharm projects\HackerRank Tasks Archive\Problem-Solving" />
       <recent name="I:\Pycharm projects\HackerRank Tasks Archive" />
     </key>
   </component>
@@ -115,7 +117,15 @@
       <option name="project" value="LOCAL" />
       <updated>1769453190828</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="27.01.26 tasks">
+      <option name="closed" value="true" />
+      <created>1769539263441</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1769539263441</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -134,6 +144,7 @@
     <MESSAGE value="23.01.26 tasks" />
     <MESSAGE value="23.01.26 tasks" />
     <MESSAGE value="26.01.26 tasks" />
-    <option name="LAST_COMMIT_MESSAGE" value="26.01.26 tasks" />
+    <MESSAGE value="27.01.26 tasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="27.01.26 tasks" />
   </component>
 </project>
