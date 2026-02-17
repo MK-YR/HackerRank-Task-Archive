@@ -4,17 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="766d3c4b-f32d-46b6-93cd-e30d14a16302" name="Changes" comment="29.01.26 tasks">
-      <change afterPath="$PROJECT_DIR$/Mathematics/Circle City _ HackerRank.mhtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mathematics/Circle City.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem-Solving/3D Surface Area _ HackerRank.mhtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem-Solving/3D Surface Area.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem-Solving/Sherlock and The Beast _ HackerRank.mhtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem-Solving/Sherlock and The Beast.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/Classes Dealing with Complex Numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/Classes_ Dealing with Complex Numbers _ HackerRank.mhtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/Default Arguments _ HackerRank.mhtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/Default Arguments.py" afterDir="false" />
+    <list default="true" id="766d3c4b-f32d-46b6-93cd-e30d14a16302" name="Changes" comment="16.02.26 tasks">
+      <change afterPath="$PROJECT_DIR$/Mathematics/Choose and Calculate _ HackerRank.mhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mathematics/Choose and Calculate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mathematics/Salary Blues _ HackerRank.mhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mathematics/Salary Blues.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem-Solving/Almost Sorted _ HackerRank.mhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem-Solving/Almost Sorted.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem-Solving/Jim and the Orders _ HackerRank.mhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem-Solving/Jim and the Orders.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/Validating Postal Codes _ HackerRank.mhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/Validating Postal Codes.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,8 +73,8 @@
       <recent name="I:\Pycharm projects\HackerRank Tasks Archive\Mathematics" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="I:\Pycharm projects\HackerRank Tasks Archive\Mathematics" />
       <recent name="I:\Pycharm projects\HackerRank Tasks Archive\Problem-Solving" />
+      <recent name="I:\Pycharm projects\HackerRank Tasks Archive\Mathematics" />
       <recent name="I:\Pycharm projects\HackerRank Tasks Archive\Python" />
       <recent name="I:\Pycharm projects\HackerRank Tasks Archive" />
     </key>
@@ -143,7 +143,15 @@
       <option name="project" value="LOCAL" />
       <updated>1769710030602</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="16.02.26 tasks">
+      <option name="closed" value="true" />
+      <created>1771267764582</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1771267764582</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -165,6 +173,7 @@
     <MESSAGE value="27.01.26 tasks" />
     <MESSAGE value="28.01.26 tasks" />
     <MESSAGE value="29.01.26 tasks" />
-    <option name="LAST_COMMIT_MESSAGE" value="29.01.26 tasks" />
+    <MESSAGE value="16.02.26 tasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="16.02.26 tasks" />
   </component>
 </project>
