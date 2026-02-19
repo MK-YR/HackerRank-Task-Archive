@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="766d3c4b-f32d-46b6-93cd-e30d14a16302" name="Changes" comment="18.02.26 tasks">
-      <change afterPath="$PROJECT_DIR$/Mathematics/Number of zero-xor subsets _ HackerRank.mhtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mathematics/Number of zero-xor subsets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mathematics/Tower 3-coloring _ HackerRank.mhtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mathematics/Tower 3-coloring.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem-Solving/Journey to the Moon _ HackerRank.mhtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem-Solving/Journey to the Moon.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem-Solving/Largest Permutation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/Maximize It! _ HackerRank.mhtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/Maximize It!.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python/Maximize It!.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/Maximize It!.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -166,7 +158,15 @@
       <option name="project" value="LOCAL" />
       <updated>1771439281484</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="18.02.26 tasks">
+      <option name="closed" value="true" />
+      <created>1771525833691</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1771525833691</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -190,7 +190,8 @@
     <MESSAGE value="29.01.26 tasks" />
     <MESSAGE value="16.02.26 tasks" />
     <MESSAGE value="17.02.26 tasks" />
-    <MESSAGE value="18.02.26 tasks" />
-    <option name="LAST_COMMIT_MESSAGE" value="18.02.26 tasks" />
+    <MESSAGE value="19.02.26 tasks" />
+    <MESSAGE value="19.02.26 tasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="19.02.26 tasks" />
   </component>
 </project>
