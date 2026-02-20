@@ -4,9 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="766d3c4b-f32d-46b6-93cd-e30d14a16302" name="Changes" comment="18.02.26 tasks">
+    <list default="true" id="766d3c4b-f32d-46b6-93cd-e30d14a16302" name="Changes" comment="&quot;Maximize it!&quot; Task optimisation.">
+      <change afterPath="$PROJECT_DIR$/Mathematics/Baby Step, Giant Step _ HackerRank.mhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mathematics/Baby Step, Giant Step.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mathematics/Solve Equations _ HackerRank.mhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mathematics/Solve Equations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem-Solving/Greedy Florist _ HackerRank.mhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem-Solving/Greedy Florist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem-Solving/Mark and Toys _ HackerRank.mhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem-Solving/Mark and Toys.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python/Maximize It!.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/Maximize It!.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -166,7 +173,15 @@
       <option name="project" value="LOCAL" />
       <updated>1771525833691</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="&quot;Maximize it!&quot; Task optimisation.">
+      <option name="closed" value="true" />
+      <created>1771528549423</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1771528549423</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -192,6 +207,7 @@
     <MESSAGE value="17.02.26 tasks" />
     <MESSAGE value="19.02.26 tasks" />
     <MESSAGE value="19.02.26 tasks" />
-    <option name="LAST_COMMIT_MESSAGE" value="19.02.26 tasks" />
+    <MESSAGE value="&quot;Maximize it!&quot; Task optimisation." />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Maximize it!&quot; Task optimisation." />
   </component>
 </project>
