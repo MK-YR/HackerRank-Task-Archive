@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="766d3c4b-f32d-46b6-93cd-e30d14a16302" name="Changes" comment="&quot;Maximize it!&quot; Task optimisation.">
-      <change afterPath="$PROJECT_DIR$/Mathematics/Baby Step, Giant Step _ HackerRank.mhtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mathematics/Baby Step, Giant Step.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mathematics/Solve Equations _ HackerRank.mhtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mathematics/Solve Equations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem-Solving/Greedy Florist _ HackerRank.mhtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem-Solving/Greedy Florist.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem-Solving/Mark and Toys _ HackerRank.mhtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem-Solving/Mark and Toys.py" afterDir="false" />
+    <list default="true" id="766d3c4b-f32d-46b6-93cd-e30d14a16302" name="Changes" comment="20.02.26 tasks">
+      <change afterPath="$PROJECT_DIR$/Mathematics/Anti-Palindromic Strings _ HackerRank.mhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mathematics/Anti-Palindromic Strings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,8 +65,8 @@
       <recent name="I:\Pycharm projects\HackerRank Tasks Archive\Mathematics" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="I:\Pycharm projects\HackerRank Tasks Archive\Problem-Solving" />
       <recent name="I:\Pycharm projects\HackerRank Tasks Archive\Mathematics" />
+      <recent name="I:\Pycharm projects\HackerRank Tasks Archive\Problem-Solving" />
       <recent name="I:\Pycharm projects\HackerRank Tasks Archive\Python" />
       <recent name="I:\Pycharm projects\HackerRank Tasks Archive" />
     </key>
@@ -181,7 +175,15 @@
       <option name="project" value="LOCAL" />
       <updated>1771528549423</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="20.02.26 tasks">
+      <option name="closed" value="true" />
+      <created>1771610505663</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1771610505663</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -208,6 +210,7 @@
     <MESSAGE value="19.02.26 tasks" />
     <MESSAGE value="19.02.26 tasks" />
     <MESSAGE value="&quot;Maximize it!&quot; Task optimisation." />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Maximize it!&quot; Task optimisation." />
+    <MESSAGE value="20.02.26 tasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="20.02.26 tasks" />
   </component>
 </project>
