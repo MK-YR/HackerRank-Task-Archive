@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="766d3c4b-f32d-46b6-93cd-e30d14a16302" name="Changes" comment="23.02.26 tasks">
-      <change afterPath="$PROJECT_DIR$/Mathematics/Equations _ HackerRank.mhtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mathematics/Equations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mathematics/Random number generator _ HackerRank.mhtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mathematics/Random number generator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem-Solving/Common Child.py" afterDir="false" />
+    <list default="true" id="766d3c4b-f32d-46b6-93cd-e30d14a16302" name="Changes" comment="24.02.26 tasks">
+      <change afterPath="$PROJECT_DIR$/Mathematics/Chandrima and XOR _ HackerRank.mhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mathematics/Chandrima and XOR.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem-Solving/Absolute Permutation.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -194,7 +192,15 @@
       <option name="project" value="LOCAL" />
       <updated>1771868863774</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="24.02.26 tasks">
+      <option name="closed" value="true" />
+      <created>1771959488932</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1771959488932</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -223,6 +229,7 @@
     <MESSAGE value="&quot;Maximize it!&quot; Task optimisation." />
     <MESSAGE value="20.02.26 tasks" />
     <MESSAGE value="23.02.26 tasks" />
-    <option name="LAST_COMMIT_MESSAGE" value="23.02.26 tasks" />
+    <MESSAGE value="24.02.26 tasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="24.02.26 tasks" />
   </component>
 </project>
