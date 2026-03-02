@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="766d3c4b-f32d-46b6-93cd-e30d14a16302" name="Changes" comment="27.02.26 tasks" />
+    <list default="true" id="766d3c4b-f32d-46b6-93cd-e30d14a16302" name="Changes" comment="02.03.26 tasks.">
+      <change afterPath="$PROJECT_DIR$/Mathematics/Towers _ HackerRank.mhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mathematics/Towers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem-Solving/The Bomberman Game _ HackerRank.mhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem-Solving/The Bomberman Game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -219,7 +225,15 @@
       <option name="project" value="LOCAL" />
       <updated>1772215770864</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="The 100th Power of a Matrix solution.">
+      <option name="closed" value="true" />
+      <created>1772224954850</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1772224954850</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -252,6 +266,8 @@
     <MESSAGE value="25.02.26 tasks" />
     <MESSAGE value="26.02.26 tasks" />
     <MESSAGE value="27.02.26 tasks" />
-    <option name="LAST_COMMIT_MESSAGE" value="27.02.26 tasks" />
+    <MESSAGE value="The 100th Power of a Matrix solution." />
+    <MESSAGE value="02.03.26 tasks." />
+    <option name="LAST_COMMIT_MESSAGE" value="02.03.26 tasks." />
   </component>
 </project>
