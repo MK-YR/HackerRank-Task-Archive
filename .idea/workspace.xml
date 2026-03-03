@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="766d3c4b-f32d-46b6-93cd-e30d14a16302" name="Changes" comment="02.03.26 tasks.">
-      <change afterPath="$PROJECT_DIR$/Mathematics/Towers _ HackerRank.mhtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mathematics/Towers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem-Solving/The Bomberman Game _ HackerRank.mhtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem-Solving/The Bomberman Game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mathematics/Fibonacci Finding (easy) _ HackerRank.mhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mathematics/Fibonacci Finding (easy).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mathematics/Primitive Problem _ HackerRank.mhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mathematics/Primitive Problem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem-Solving/Tower Breakers _ HackerRank.mhtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problem-Solving/Tower Breakers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -233,7 +235,15 @@
       <option name="project" value="LOCAL" />
       <updated>1772224954850</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="02.03.26 tasks.">
+      <option name="closed" value="true" />
+      <created>1772475972757</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1772475972757</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
