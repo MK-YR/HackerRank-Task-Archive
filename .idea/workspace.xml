@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="766d3c4b-f32d-46b6-93cd-e30d14a16302" name="Changes" comment="23.03.26 tasks." />
+    <list default="true" id="766d3c4b-f32d-46b6-93cd-e30d14a16302" name="Changes" comment="24.03.26 tasks." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -315,7 +315,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774290017320</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="24.03.26 tasks.">
+      <option name="closed" value="true" />
+      <created>1774360093059</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1774360093059</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -330,7 +338,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="28.01.26 tasks" />
     <MESSAGE value="29.01.26 tasks" />
     <MESSAGE value="16.02.26 tasks" />
     <MESSAGE value="17.02.26 tasks" />
@@ -355,6 +362,7 @@
     <MESSAGE value="13.03.26 tasks." />
     <MESSAGE value="16.03.26 tasks." />
     <MESSAGE value="23.03.26 tasks." />
-    <option name="LAST_COMMIT_MESSAGE" value="23.03.26 tasks." />
+    <MESSAGE value="24.03.26 tasks." />
+    <option name="LAST_COMMIT_MESSAGE" value="24.03.26 tasks." />
   </component>
 </project>
