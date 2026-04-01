@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="766d3c4b-f32d-46b6-93cd-e30d14a16302" name="Changes" comment="30.03.26 tasks.">
-      <change afterPath="$PROJECT_DIR$/Problem-Solving/Cycle Detection _ HackerRank.mhtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem-Solving/Cycle Detection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem-Solving/Grid Challenge _ HackerRank.mhtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem-Solving/Grid Challenge.py" afterDir="false" />
+    <list default="true" id="766d3c4b-f32d-46b6-93cd-e30d14a16302" name="Changes" comment="31.03.26 tasks.">
+      <change afterPath="$PROJECT_DIR$/Problem-Solving/Left Rotation.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -353,7 +350,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774894294865</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="31.03.26 tasks.">
+      <option name="closed" value="true" />
+      <created>1774981868272</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1774981868272</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -368,7 +373,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="19.02.26 tasks" />
     <MESSAGE value="19.02.26 tasks" />
     <MESSAGE value="&quot;Maximize it!&quot; Task optimisation." />
     <MESSAGE value="20.02.26 tasks" />
@@ -393,6 +397,7 @@
     <MESSAGE value="25.03.26 tasks." />
     <MESSAGE value="26.03.26 tasks." />
     <MESSAGE value="30.03.26 tasks." />
-    <option name="LAST_COMMIT_MESSAGE" value="30.03.26 tasks." />
+    <MESSAGE value="31.03.26 tasks." />
+    <option name="LAST_COMMIT_MESSAGE" value="31.03.26 tasks." />
   </component>
 </project>
