@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="766d3c4b-f32d-46b6-93cd-e30d14a16302" name="Changes" comment="1.04.26 tasks.">
-      <change afterPath="$PROJECT_DIR$/Problem-Solving/Minimum Absolute Difference in an Array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem-Solving/Snakes and Ladders The Quickest Way Up.py" afterDir="false" />
+    <list default="true" id="766d3c4b-f32d-46b6-93cd-e30d14a16302" name="Changes" comment="3.04.26 tasks.">
+      <change afterPath="$PROJECT_DIR$/Problem-Solving/Prim's (MST) Special Subtree.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -367,7 +366,15 @@
       <option name="project" value="LOCAL" />
       <updated>1775053392788</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="3.04.26 tasks.">
+      <option name="closed" value="true" />
+      <created>1775240412484</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1775240412484</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -382,7 +389,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="&quot;Maximize it!&quot; Task optimisation." />
     <MESSAGE value="20.02.26 tasks" />
     <MESSAGE value="23.02.26 tasks" />
     <MESSAGE value="24.02.26 tasks" />
@@ -407,6 +413,7 @@
     <MESSAGE value="30.03.26 tasks." />
     <MESSAGE value="31.03.26 tasks." />
     <MESSAGE value="1.04.26 tasks." />
-    <option name="LAST_COMMIT_MESSAGE" value="1.04.26 tasks." />
+    <MESSAGE value="3.04.26 tasks." />
+    <option name="LAST_COMMIT_MESSAGE" value="3.04.26 tasks." />
   </component>
 </project>
