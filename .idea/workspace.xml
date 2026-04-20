@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="766d3c4b-f32d-46b6-93cd-e30d14a16302" name="Changes" comment="3.04.26 tasks.">
-      <change afterPath="$PROJECT_DIR$/Problem-Solving/Prim's (MST) Special Subtree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="766d3c4b-f32d-46b6-93cd-e30d14a16302" name="Changes" comment="6.04.26 tasks." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -374,7 +371,15 @@
       <option name="project" value="LOCAL" />
       <updated>1775240412484</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="6.04.26 tasks.">
+      <option name="closed" value="true" />
+      <created>1775490341315</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1775490341315</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -389,7 +394,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="20.02.26 tasks" />
     <MESSAGE value="23.02.26 tasks" />
     <MESSAGE value="24.02.26 tasks" />
     <MESSAGE value="25.02.26 tasks" />
@@ -414,6 +418,7 @@
     <MESSAGE value="31.03.26 tasks." />
     <MESSAGE value="1.04.26 tasks." />
     <MESSAGE value="3.04.26 tasks." />
-    <option name="LAST_COMMIT_MESSAGE" value="3.04.26 tasks." />
+    <MESSAGE value="6.04.26 tasks." />
+    <option name="LAST_COMMIT_MESSAGE" value="6.04.26 tasks." />
   </component>
 </project>
