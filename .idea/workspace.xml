@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="766d3c4b-f32d-46b6-93cd-e30d14a16302" name="Changes" comment="6.05.26 tasks.">
-      <change afterPath="$PROJECT_DIR$/Problem-Solving/2's Compliment.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="766d3c4b-f32d-46b6-93cd-e30d14a16302" name="Changes" comment="7.05.26 tasks.">
       <change beforePath="$PROJECT_DIR$/Problem-Solving/Roads and Libraries.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problem-Solving/Roads and Libraries.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -469,7 +467,15 @@
       <option name="project" value="LOCAL" />
       <updated>1778014441720</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="7.05.26 tasks.">
+      <option name="closed" value="true" />
+      <created>1778177526289</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1778177526289</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -484,7 +490,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="03.03.26 tasks." />
     <MESSAGE value="04.03.26 tasks." />
     <MESSAGE value="05.03.26 tasks." />
     <MESSAGE value="06.03.26 tasks." />
@@ -509,6 +514,7 @@
     <MESSAGE value="30.04.26 tasks." />
     <MESSAGE value="1.05.26 tasks." />
     <MESSAGE value="6.05.26 tasks." />
-    <option name="LAST_COMMIT_MESSAGE" value="6.05.26 tasks." />
+    <MESSAGE value="7.05.26 tasks." />
+    <option name="LAST_COMMIT_MESSAGE" value="7.05.26 tasks." />
   </component>
 </project>
