@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="766d3c4b-f32d-46b6-93cd-e30d14a16302" name="Changes" comment="15.05.26 tasks.">
-      <change afterPath="$PROJECT_DIR$/Problem-Solving/Short Palindrome.py" afterDir="false" />
+    <list default="true" id="766d3c4b-f32d-46b6-93cd-e30d14a16302" name="Changes" comment="18.05.26 tasks.">
+      <change afterPath="$PROJECT_DIR$/Problem-Solving/Waiter.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -492,7 +492,15 @@
       <option name="project" value="LOCAL" />
       <updated>1778788263437</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="18.05.26 tasks.">
+      <option name="closed" value="true" />
+      <created>1779130058489</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1779130058489</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -507,7 +515,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="06.03.26 tasks." />
     <MESSAGE value="10.03.26 tasks." />
     <MESSAGE value="11.03.26 tasks." />
     <MESSAGE value="12.03.26 tasks." />
@@ -532,6 +539,7 @@
     <MESSAGE value="7.05.26 tasks." />
     <MESSAGE value="13.05.26 tasks." />
     <MESSAGE value="15.05.26 tasks." />
-    <option name="LAST_COMMIT_MESSAGE" value="15.05.26 tasks." />
+    <MESSAGE value="18.05.26 tasks." />
+    <option name="LAST_COMMIT_MESSAGE" value="18.05.26 tasks." />
   </component>
 </project>
