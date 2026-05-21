@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="766d3c4b-f32d-46b6-93cd-e30d14a16302" name="Changes" comment="19.05.26 tasks.">
-      <change afterPath="$PROJECT_DIR$/Problem-Solving/Fraudulent Activity Notifications _ HackerRank.mhtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem-Solving/Fraudulent Activity Notifications.py" afterDir="false" />
+    <list default="true" id="766d3c4b-f32d-46b6-93cd-e30d14a16302" name="Changes" comment="20.05.26 tasks.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -116,14 +114,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1768982959970</updated>
-    </task>
-    <task id="LOCAL-00001" summary="Initial">
-      <option name="closed" value="true" />
-      <created>1769023867063</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1769023867063</updated>
     </task>
     <task id="LOCAL-00002" summary="22.01.26 tasks">
       <option name="closed" value="true" />
@@ -509,7 +499,15 @@
       <option name="project" value="LOCAL" />
       <updated>1779214315733</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="20.05.26 tasks.">
+      <option name="closed" value="true" />
+      <created>1779300357803</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1779300357803</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -524,7 +522,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="11.03.26 tasks." />
     <MESSAGE value="12.03.26 tasks." />
     <MESSAGE value="13.03.26 tasks." />
     <MESSAGE value="16.03.26 tasks." />
@@ -549,6 +546,7 @@
     <MESSAGE value="15.05.26 tasks." />
     <MESSAGE value="18.05.26 tasks." />
     <MESSAGE value="19.05.26 tasks." />
-    <option name="LAST_COMMIT_MESSAGE" value="19.05.26 tasks." />
+    <MESSAGE value="20.05.26 tasks." />
+    <option name="LAST_COMMIT_MESSAGE" value="20.05.26 tasks." />
   </component>
 </project>
