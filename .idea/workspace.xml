@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="766d3c4b-f32d-46b6-93cd-e30d14a16302" name="Changes" comment="20.05.26 tasks.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="766d3c4b-f32d-46b6-93cd-e30d14a16302" name="Changes" comment="21.05.26 tasks." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -114,14 +112,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1768982959970</updated>
-    </task>
-    <task id="LOCAL-00002" summary="22.01.26 tasks">
-      <option name="closed" value="true" />
-      <created>1769106448672</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1769106448672</updated>
     </task>
     <task id="LOCAL-00003" summary="26.01.26 tasks">
       <option name="closed" value="true" />
@@ -507,7 +497,15 @@
       <option name="project" value="LOCAL" />
       <updated>1779300357803</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="21.05.26 tasks.">
+      <option name="closed" value="true" />
+      <created>1779388865265</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1779388865265</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -522,7 +520,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="12.03.26 tasks." />
     <MESSAGE value="13.03.26 tasks." />
     <MESSAGE value="16.03.26 tasks." />
     <MESSAGE value="23.03.26 tasks." />
@@ -547,6 +544,7 @@
     <MESSAGE value="18.05.26 tasks." />
     <MESSAGE value="19.05.26 tasks." />
     <MESSAGE value="20.05.26 tasks." />
-    <option name="LAST_COMMIT_MESSAGE" value="20.05.26 tasks." />
+    <MESSAGE value="21.05.26 tasks." />
+    <option name="LAST_COMMIT_MESSAGE" value="21.05.26 tasks." />
   </component>
 </project>
